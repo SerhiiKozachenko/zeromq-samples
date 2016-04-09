@@ -1,0 +1,24 @@
+{
+  "name": "zeromq-samples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nodejs-pub.js",
+  "dependencies": {
+    "zmq": "^2.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Grievoushead/zeromq-samples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Grievoushead/zeromq-samples/issues"
+  },
+  "homepage": "https://github.com/Grievoushead/zeromq-samples"
+}
